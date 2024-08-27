@@ -3,6 +3,7 @@ A list of papers in contrastive learning.
 ## Computer Vision
 | Year | Title                                                       | Venue | Code |
 | -----|-------------------------------------------------------------| ----- | ---- |
+|2024 | [Meta-optimized Angular Margin Contrastive Framework for Video-Language Representation Learning](https://arxiv.org/abs/2407.03788) | ECCV | Code|
 | 2021 | [Detco: Unsupervised contrastive learning for object detection](https://arxiv.org/pdf/2102.04803) | arxiv | [Code](https://github.com/xieenze/DetCo) |
 | 2021 | [SEED: Self-supervised Distillation For Visual Representation](https://openreview.net/forum?id=AHm3dbp7D1D) | ICLR | Code |
 | 2021 | [PROTOTYPICAL CONTRASTIVE LEARNING OF UNSUPERVISED REPRESENTATIONS](https://arxiv.org/abs/2005.04966) | ICLR | [Code](https://github.com/salesforce/PCL) |
@@ -71,6 +72,11 @@ A list of papers in contrastive learning.
 ## Natural Language Processing
 | Year | Title                                                        | Venue | Code |
 | -----|------------------------------------------------------------- | ----- | ---- |
+|2024 | [Topic Modeling as Multi-Objective Contrastive Optimization](https://arxiv.org/abs/2402.07577) | ICLR | Code|
+|2024 | [KDMCSE: Knowledge Distillation Multimodal Sentence Embeddings with Adaptive Angular margin Contrastive Learning](https://arxiv.org/abs/2403.17486) | NAACL | Code|
+|2023 | [Improving Multimodal Sentiment Analysis: Supervised Angular Margin-based Contrastive Learning for Enhanced Fusion Representation](https://arxiv.org/abs/2312.02227) | EMNLP | Code|
+|2022 | [Adaptive Contrastive Learning on Multimodal Transformer for Review Helpfulness Predictions](https://arxiv.org/abs/2211.03524) | EMNLP | [Code](https://github.com/nguyentthong/adaptive_contrastive_mrhp) |
+|2021 | [Contrastive Learning for Neural Topic Model](https://arxiv.org/abs/2110.12764) | NeurIPS | [Code](https://github.com/nguyentthong/CLNTM) |
 |2021 | [Few-Shot Intent Detection via Contrastive Pre-Training and Fine-Tuning](https://arxiv.org/pdf/2109.06349v1.pdf) | EMNLP | Code|
 |2021 | [CLINE: Contrastive Learning with Semantic Negative Examples for Natural Language Understanding](https://aclanthology.org/2021.acl-long.181.pdf) | ACL | [Code](https://github.com/kandorm/CLINE)|
 |2021 | [Supervised Contrastive Learning for Pre-trained Language Model Fine-tuning](https://openreview.net/forum?id=cu7IUiOhujH) | ICLR | Code| 
